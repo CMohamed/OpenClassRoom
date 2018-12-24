@@ -1,3 +1,3 @@
-#My solutions in OpenClassRomm activities
+# My solutions in OpenClassRomm activities
 
 ;)
